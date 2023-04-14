@@ -1,0 +1,2 @@
+add_executable(pointers pointers.cpp)
+add_executable(named_parameter named_parameters.cpp)
